@@ -39,3 +39,13 @@
   - Voice Assistant
   - Temporary mail
   - Discord/Telegram/Reddit/YT/Twitch bot
+  - Review and refactor others' code on github
+
+#### Competitive Programming:
+  - [Codewars](https://www.codewars.com/)
+  - [Hackerrank](https://www.hackerrank.com)
+  - [LeetCode](https://leetcode.com)
+  - [CodeChef](https://wwww.codechef.com)
+  - [HackerEarth](https://www.hackerearth.com)
+  - [Advent of Code](https://adventofcode.com)
+  - [DevFolio](https://devfolio.co/hackathons) -> **Hackathons**
